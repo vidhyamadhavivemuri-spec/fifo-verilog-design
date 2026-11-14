@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Synchronous FIFO Design using Verilog HDL
 
 ## Overview
@@ -221,3 +222,6 @@ Through this project, I explored:
 **Language:** Verilog HDL  
 **Verification:** Icarus Verilog  
 **Waveform Tool:** GTKWave
+=======
+# fifo-verilog-design
+>>>>>>> 757c3c925e449ea5cc26696f84cfbfaead26db98
