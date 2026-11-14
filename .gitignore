@@ -1,0 +1,9 @@
+
+# Compiled simulation files
+*.vvp
+
+# Generated waveform files
+*.vcd
+
+# Temporary files
+*.log
